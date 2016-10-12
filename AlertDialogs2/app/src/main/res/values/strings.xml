@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Polygon of Support</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_title">Show Dialog</string>
+    <string name="dialog_title">EMERGENCY</string>
+    <string name="dialog_message">Police\nAmbulance\nFire\nDisaster Management\nAids Helpline\nChild Abuse Hotline\nWomen Helpine\nBlood Helpline no\nMissing Persons Bureau</string>
+    <string name="positive_button">OK</string>
+    <string name="manage_support">Manage Support</string>
+    <string name="request_call">Request a Call</string>
+    <string name="request_ride">Request a Ride</string>
+    <string name="view_support">View Support</string>
+    <string name="text100">Text 100</string>
+    <string name="police">POLICE</string>
+    <string name="ambulance">AMBULANCE</string>
+    <string name="fire">FIRE</string>
+    <string name="disman">DISASTER MANAGEMENT</string>
+    <string name="childab">CHILD ABUSE</string>
+    <string name="womenhe">WOMEN HELPLINE</string>
+    <string name="blood">BLOOD HELPLINE</string>
+    <string name="aids">AIDS HELPINE</string>
+    <string name="railway">RAILWAY SECURITY HELPLINE</string>
+    <string name="okb">OK </string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_register">register</string>
+    <string name="title_activity_3">Activity3</string>
+    <string name="title_activity_main22">Main22Activity</string>
+    <string name="title_supporter">Supporter Information</string>
+    <string name="supp_num">Phone Number</string>
+    <string name="supp_name">Name</string>
+    <string name="save_button">SAVE</string>
+    <string name="login">LOGIN</string>
+    <string name="safety_detail">
+        <b><u> Safety Instructions</u></b>\n\n1. Avoid all travels at night. Never get into a cab or auto that already occupied with any passenger.
+\n2. Your eye contact with stranges should be brief and never intimating.
+\n3. Act confident and try not making enquiries from strangers.
+\n4. Keep some speed-dial numbers and some self-defence devices handy.
+\n5. Carry a pen knife or pepper spray for self-defense. A torch is handy if the lights go off.
+\n6. Avoid late night travelling to suburbs when you are alone. If you have to, take someone along.
+\n7. Don’t ignore, Raise your Voice calmly, firmly, and without insults or personal attacks to let them know that their actions are unwelcome, unacceptable, and wrong.
+\n8. Scream, be confident and be loud enough when you confront the harasser.
+\n9. Don’t hesitate to take help of bystanders.
+
+\n\n<b><u> Role of Bystanders</u></b>
+
+\n\nAs a bystander, try to intervene in the matter where women might require help. In such situation yell, scream and draw more public attention.
+If you come across any situation of violence on women, engage the victim in some way that will distract from harasser. Ex: ‘Can you tell me the time?’ ‘I need to go there, which train I must take?’ .
+Call on Helpline numbers and report about the harassment that you witnessed.
+        \n\n<b><u>Warning:</u></b> Any Misuse of this Service is a Punishable Offence Under the Law.
+
+\n\n<b><u>Note:</u></b> This service is completely free. Standard SMS charges are applicable as per your telecom subscriber plan.
+        \n\nFor any queries,mail us at\n\n
+</string>
+    <string name="email1">dasoriyarayan@gmail.com</string>
+    <string name="email2">rishabh.jamar2000@gmail.com</string>
+    <string name="title_activity_help">help</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="ragging">ANTI RAGGING HELPLINE</string>
+
+</resources>

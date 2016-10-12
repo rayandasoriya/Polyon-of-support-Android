@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_supporter">Supporter Information</string>
+    <string name="supp_num">Phone Number :</string>
+    <string name="supp_name">Name :</string>
+    <string name="save_button">SAVE</string>
+</resources>
